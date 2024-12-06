@@ -38,11 +38,11 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
-FULL ADDER
+**FULL ADDER**
 ![image](https://github.com/user-attachments/assets/c385e942-bcf5-4708-bded-7bf4e190ff85)
 
 
-FULL SUBTRACTOR
+**FULL SUBTRACTOR**
 ![image](https://github.com/user-attachments/assets/dc208995-2c06-4bd6-8c06-092c6509911c)
 
 
@@ -77,20 +77,20 @@ endmodule
 
 **RTL Schematic**
 
-FULL ADDER
+**FULL ADDER**
 ![image](https://github.com/user-attachments/assets/9ff488da-2f35-4f4d-a94b-66472ec1c3fc)
 
-FULL SUBTRACTOR
+**FULL SUBTRACTOR**
 ![image](https://github.com/user-attachments/assets/3e8e9827-5325-4c1c-8255-0a974bfa12e4)
 
 
 
 **Output Timing Waveform**
 
-FULL ADDER
+**FULL ADDER**
 ![image](https://github.com/user-attachments/assets/12117915-10a3-4417-a3b1-dcd4fe5f283f)
 
-FULL SUBTRACTOR
+**FULL SUBTRACTOR**
 ![image](https://github.com/user-attachments/assets/b99c982d-edd2-4787-b273-fcdaaace1aef)
 
 
